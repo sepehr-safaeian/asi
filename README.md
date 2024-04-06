@@ -1,13 +1,13 @@
 
-# AIS - Auto Installer Software
+# ASI - Automated Software Installer
 
-AutoInstaller is a command-line interface (CLI) application written in Go (Golang) that facilitates the installation of various software packages. It automates the download and installation process based on a predefined list of software.
+Automated Software Installer is a command-line interface (CLI) application written in Go (Golang) that facilitates the installation of various software packages. It automates the download and installation process based on a predefined list of software.
 
 ## Installation Status
 
-AutoInstaller is currently undergoing an automated installation process. Please be patient while the system completes the installation of the designated software packages. This process may take some time depending on the number and size of the software packages being installed.
+Automated Software Installer is currently undergoing an automated installation process. Please be patient while the system completes the installation of the designated software packages. This process may take some time depending on the number and size of the software packages being installed.
 
-Once the installation is complete, you will receive a notification indicating that the AutoInstaller is ready for use. In the meantime, feel free to explore other sections of this README to learn more about the features and capabilities of AutoInstaller.
+Once the installation is complete, you will receive a notification indicating that the Automated Software Installer is ready for use. In the meantime, feel free to explore other sections of this README to learn more about the features and capabilities of Automated Software Installer.
 
 Thank you for your patience and understanding.
 
