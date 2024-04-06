@@ -13,7 +13,7 @@ AutoInstaller is a command-line interface (CLI) application written in Go (Golan
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/autoinstaller.git
+   git clone https://github.com/sepehr-safaeian/ASI
    ```
 
 2. Navigate to the project directory:
