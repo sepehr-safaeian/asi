@@ -68,4 +68,4 @@ The list of software packages and their download URLs are configured in the `con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
